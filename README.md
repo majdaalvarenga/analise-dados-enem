@@ -1,5 +1,5 @@
 # Análise
-## Como a pandemia afetou o Enem em 2020 e quais os fatores impactaram o público do sexo feminino
+## Como a pandemia afetou o Enem em 2020 e quais os fatores impactaram o público do sexo feminino.
 - **Arquivos para Downloads:**
 - [2018](https://download.inep.gov.br/microdados/microdados_enem_2018.zip)
 - [2019](https://download.inep.gov.br/microdados/microdados_enem_2019.zip)
@@ -7,10 +7,10 @@
 - [2021](https://download.inep.gov.br/microdados/microdados_enem_2021.zip)
 - [2022](https://download.inep.gov.br/microdados/microdados_enem_2022.zip)
 
-## 1 Descricao
+## 1. Descricao
 Este projeto visa analisar o impacto da pandemia de COVID-19 no desempenho das participantes do sexo `feminino` no ENEM (Exame Nacional do Ensino Médio), comparando os anos de 2019 (pré-pandemia) e 2020 (durante a pandemia). O foco da análise é entender como fatores socioeconômicos, raciais e o acesso à internet influenciaram o desempenho das alunas em diferentes áreas do conhecimento e na redação.
 
-## 2 Objetivo
+## 2. Objetivo
 
 ### Objetivos Gerais:
 - Avaliar o impacto da pandemia no desempenho geral das estudantes do sexo `feminino` no ENEM.
