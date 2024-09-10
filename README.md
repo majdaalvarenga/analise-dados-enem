@@ -115,7 +115,7 @@ Essas discrepâncias no desempenho acadêmico sublinham a correlação entre fat
 - **Marcos Carvalho Junior**  
   [GitHub](https://github.com/MarcosFN2014) | [LinkedIn](https://www.linkedin.com/in/marcos-carvalho-8173a2241/)
 
-  - **Mateus Cunha**  
+- **Mateus Cunha**
   [GitHub](https://github.com/Mateusclm) | [LinkedIn](https://www.linkedin.com/in/mateusclm/)
 
 - **Mille Amorim**  
