@@ -77,7 +77,6 @@ Este projeto visa analisar o impacto da pandemia de COVID-19 no desempenho das p
 ### Principais Descobertas:
 - A pandemia teve grande impacto na presenca de todos os grupos. 
 - Não houve um impacto significativo no desmpenho das participantes.
-- 
 
 ### Visualizações:
 - Gráficos comparativos de desempenho por raça, renda e acesso à internet entre os anos de 2019 e 2020.
